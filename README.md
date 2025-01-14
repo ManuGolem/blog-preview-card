@@ -21,7 +21,7 @@ Users should be able to:
 - Desktop :
 ![](/assets/images/Screenshot%202025-01-13%20at%2020-19-28%20Frontend%20Mentor%20Blog%20preview%20card.png)
 ### Links
-- Live Site URL:[blog-preview-card](https://manugolem.github.io/blog-preview-card/)
+- Live Site URL: [blog-preview-card](https://manugolem.github.io/blog-preview-card/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
