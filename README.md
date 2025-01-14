@@ -19,9 +19,11 @@ Users should be able to:
 ### Screenshot
 
 - Desktop :
+
 ![](/assets/images/Screenshot%202025-01-13%20at%2020-19-28%20Frontend%20Mentor%20Blog%20preview%20card.png)
 
 - Mobile:
+
 ![](/assets/images/Screenshot%202025-01-14%20at%2011-06-48%20Frontend%20Mentor%20Blog%20preview%20card.png)
 
 ### Links
